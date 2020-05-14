@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { ServicesComponent } from './services/services.component';
 import { ResumeCvComponent } from './resume-cv/resume-cv.component';
 import { ContactComponent } from './contact/contact.component';
+import { TranslateModule } from '@ngx-translate/core';
 const routes: Routes = [   
 
   {
